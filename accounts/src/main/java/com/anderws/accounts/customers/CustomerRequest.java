@@ -1,4 +1,4 @@
-package com.anderws.accounts;
+package com.anderws.accounts.customers;
 
 import lombok.Data;
 

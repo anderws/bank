@@ -1,5 +1,6 @@
 package com.anderws.accounts;
 
+import com.anderws.accounts.customers.CustomerRequest;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
