@@ -6,7 +6,8 @@
     <modules>
         <module>accounts</module>
 		<module>loans</module>
-	</modules>
+        <module>cards</module>
+    </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
